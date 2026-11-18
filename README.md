@@ -10,7 +10,7 @@ and sensor data to controlling TurtleBots and Crazyflie drones with MPC, SLAM an
 
 | Area | Tools and methods |
 |---|---|
-| **Machine learning** | PyTorch · scikit-learn · CNNs · LSTM/GRU/RNN · time-series forecasting · reinforcement learning (DQN, PPO, DDPG) |
+| **Machine learning** | PyTorch · Hugging Face Transformers (RoBERTa) · scikit-learn · CNNs · GANs · LSTM/GRU/RNN · time-series forecasting · reinforcement learning (DQN, PPO, DDPG) |
 | **Robotics** | ROS 2 · Gazebo · model predictive control · FastSLAM · RRT · A* · inverse kinematics · TurtleBot3 · Crazyflie |
 | **Programming** | Python · MATLAB / Simulink · NumPy · pandas · Jupyter |
 | **Data and MLOps** | Docker · Kubernetes jobs · Parquet data pipelines |
@@ -22,6 +22,7 @@ and sensor data to controlling TurtleBots and Crazyflie drones with MPC, SLAM an
 |---|---|
 | 🤖 [**ros2-turtlebot-autonomy**](https://github.com/abodynasser22/ros2-turtlebot-autonomy) | ROS 2 TurtleBot3 stack: feedback control → MPC → RRT exploration → FastSLAM, tested in Gazebo and on the real robot |
 | 🌍 [**geomagnetic-r-index-forecasting**](https://github.com/abodynasser22/geomagnetic-r-index-forecasting) | LSTM / GRU / RNN forecasting of geomagnetic activity from Finnish magnetometer data, up to 19 % better than persistence; runs as Kubernetes jobs |
+| 🧩 [**deep-learning-nlp-gan-rl**](https://github.com/abodynasser22/deep-learning-nlp-gan-rl) | RoBERTa hate-speech detection with adversarial training and attention explainability (F1 0.85), plus GANs, diffusion, image captioning and a DQN agent that plays Atari Breakout |
 | 🛰️ [**sentinel2-cloud-classification**](https://github.com/abodynasser22/sentinel2-cloud-classification) | CNN that classifies 12-band Sentinel-2 satellite patches as clear or cloudy (89 % test accuracy) |
 | 🚁 [**robot-control-path-planning-simulink**](https://github.com/abodynasser22/robot-control-path-planning-simulink) | TurtleBot and Crazyflie drone control, lidar occupancy mapping and A\* path planning in MATLAB/Simulink |
 | 🦿 [**biorobotics-legged-locomotion-rl**](https://github.com/abodynasser22/biorobotics-legged-locomotion-rl) | Quadruped gaits and inverse kinematics in ROS 2, flapping-wing control and RL agents |
