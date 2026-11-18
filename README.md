@@ -36,4 +36,4 @@ More: [auditory balance analysis](https://github.com/abodynasser22/auditory-bala
 
 ## Contact
 
-📍 Luleå, Sweden
+📍 Luleå, Sweden · 💼 [LinkedIn](https://www.linkedin.com/in/abdalrahman-nasser-1b11b32b3)
